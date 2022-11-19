@@ -22,5 +22,10 @@
     {
         "text": "C'est le mien !",
         "image": "linktocat.jpg"
+    },
+    {
+        "text": "C'est encore le mien !",
+        "image": "linktocat.jpg"
     }
+
 ]
